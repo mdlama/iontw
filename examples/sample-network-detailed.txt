@@ -1,0 +1,10 @@
+network
+set num-nodes 3
+node 0 -10 10
+node 1 10 10
+node 2 -10 -10
+edge 0 1
+edge 1 2
+edge 0 2
+state 0 I
+state 1 R

@@ -1,0 +1,11 @@
+parameters
+set model-time Continuous
+set time-step 0.02
+set infection-rate 1.4
+set infection-prob 0.02761163319875315
+set end-infection-rate 1
+set end-infection-prob 0.019801326693244747
+set end-latency-rate 0.4
+set end-latency-prob 0.007968085162939342
+set gain-immunity true
+set latent-period true
